@@ -1,0 +1,39 @@
+/target
+/.mvn/wrapper/*.jar
+
+# Bloop build server files
+.bloop/
+
+# IDE-specific files
+.idea/
+*.iml
+.vscode/
+
+# sbt-specific files
+.project
+.target/
+.cache/
+.history/
+lib_managed/
+src_managed/
+
+# Mill-specific files
+.mill-jars/
+.mill/
+
+# Maven-specific files
+target/
+*.log
+
+# Operating system-specific files
+.DS_Store
+Thumbs.db
+
+# Maven
+.mvn
+
+# Gatling
+.gatling
+
+# Metals
+.metals
