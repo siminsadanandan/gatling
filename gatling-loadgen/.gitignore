@@ -29,9 +29,6 @@ target/
 .DS_Store
 Thumbs.db
 
-# Maven
-.mvn
-
 # Gatling
 .gatling
 
